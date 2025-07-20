@@ -1,6 +1,6 @@
-# henryheffernan.com
+# tariqasim.com
 
-This is one of two repositories created for my portfolio website <a href="https://henryheffernan.com/"><samp>henryheffernan.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/henryjeff/portfolio-inner-site"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:henryheffernan@gmail.com">henryheffernan@gmail.com</a></samp> or you can DM me on twitter <a href="https://twitter.com/henryheffernan"><samp>@henryheffernan</samp></a>.
+This is one of two repositories created for my portfolio website <a href="https://tariqasim.com/"><samp>tariqasim.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/TariqAsim/portfolio-inner-site"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:tariqasim96@gmail.com">tariqasim@gmail.com</a></samp> or you can DM me on twitter <a href="https://twitter.com/tariqasim"><samp>@tariqasim</samp></a>.
 
 <br>
 
